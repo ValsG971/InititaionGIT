@@ -6,7 +6,7 @@ Tout au cours de ce TP, chaque apprenant va ajouter son nom à cette liste
 2. 
 3. 
 4. 
-5. 
+5. Grégory 
 6. 
 7. 
 8. 
